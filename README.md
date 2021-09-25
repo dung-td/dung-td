@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there, I'm Dung
+* I'm studying at University of Information Technology - VNUHCM
+* I strongly focus on Mobile and Web Development
 
-<!--
-**ducdung-tong/ducdung-tong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Skills and Experience
+* ⚛ `React` 
+* Mobile: `React Native` `Xamarin` `Java`
+* Front-end: `HTML5` `CSS3` `JS`
+* Back-end: `PHP`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Statistics
+
+![](https://github.com/ducdung-tong/studious-funicular/blob/master/generated/overview.svg)
+![](https://github.com/ducdung-tong/studious-funicular/blob/master/generated/languages.svg)
+
+![Profile views](https://gpvc.arturio.dev/ducdung-tong)
