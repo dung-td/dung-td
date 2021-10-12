@@ -14,4 +14,3 @@
 ![](https://github.com/ducdung-tong/studious-funicular/blob/master/generated/overview.svg)
 ![](https://github.com/ducdung-tong/studious-funicular/blob/master/generated/languages.svg)
 
-![Profile views](https://gpvc.arturio.dev/ducdung-tong)
