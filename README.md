@@ -26,7 +26,7 @@
 </p>
 
 ## Things I'm spending time on this week
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dung_td&layout=compact)
+![dung_td's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dung_td&layout=compact)
 
 
 
