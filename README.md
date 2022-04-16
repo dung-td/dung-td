@@ -1,4 +1,4 @@
-## Hi there  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> , I'm Dung
+## Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> , I'm Dung
 * I'm studying at University of Information Technology - VNUHCM
 * I strongly focus on Mobile and Web Development
 
